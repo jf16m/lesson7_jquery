@@ -13,8 +13,7 @@ LIS 2360:  Web Application Development
 (This assignment we build an application that displays elements when a user clicks the associated headers.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+( https://jf16m.github.io/lesson7_jquery/Lesson7_Assignment/index2.html )
 
 ### Lessons Learned in the Assignment:
 1. (Adding interactivity to the application.)
